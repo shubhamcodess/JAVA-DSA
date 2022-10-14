@@ -1,8 +1,4 @@
-package Practice.Recursion;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package Practice.Recursion.basic;
 
 public class ProductOfArray {
 

@@ -1,4 +1,4 @@
-package Practice.Recursion;
+package Practice.Recursion.basic;
 
 public class Factorial {
 
